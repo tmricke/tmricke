@@ -1,16 +1,19 @@
-## Hi there 👋
+# Tom Ricke
 
-<!--
-**tmricke/tmricke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+U.S. Air Force Veteran transitioning into IT.
 
-Here are some ideas to get you started:
+## Current Focus
+- HTML/CSS portfolio
+- Linux scripting
+- Git & GitHub workflow
+- Python automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- d276-portfolio
+- linux-bash-scripts
+- python-automation
+
+## Certifications
+- CompTIA A+
+- ITIL 4
+- AWS Cloud Practitioner (In Progress)
