@@ -15,5 +15,6 @@ U.S. Air Force Veteran transitioning into IT.
 
 ## Certifications
 - CompTIA A+
-- ITIL 4
-- AWS Cloud Practitioner (In Progress)
+- ITIL 4 Foundation
+- AWS Certified Cloud Practitioner
+- LPI Linux Essentials
