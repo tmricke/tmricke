@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="./IMG_0010.PNG" width="180" alt="Tom Ricke profile photo" />
+<img src="./github-banner.png" width="100%" alt="Tom Ricke - Veteran, IT Professional, Lifelong Learner" />
 
-# 👋 Hi, I'm Tom Ricke
-
-### IT Support • Network Operations • Junior Systems Administration
-
-**20-Year U.S. Air Force Veteran | WGU Information Technology Student | Hands-On Homelab Builder**
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomricke/)
-[![Homelab](https://img.shields.io/badge/Homelab-View_Projects-2496ED?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tmricke/homelab)
+[![Homelab](https://img.shields.io/badge/Homelab-Explore_Projects-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tmricke/homelab)
+[![AD Lab](https://img.shields.io/badge/Featured-Active_Directory_Lab-00A4EF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tmricke/homelab/tree/main/active-directory-lab)
 
 </div>
 
