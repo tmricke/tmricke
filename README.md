@@ -40,7 +40,7 @@ I am rebuilding and documenting the environment so each exercise shows not only 
 
 ## Projects
 
-- [Windows Server & Network Homelab](https://github.com/tmricke) — Active Directory, DNS, DHCP, pfSense, Windows clients, Ubuntu Server, and troubleshooting documentation *(documentation in progress)*
+- [Windows Server & Network Homelab](https://github.com/tmricke/homelab/tree/main/active-directory-lab) — Active Directory, DNS, DHCP, pfSense, Windows clients, Ubuntu Server, and troubleshooting documentation *(documentation in progress)*
 - [D276 Web Development Portfolio](https://github.com/tmricke/d276-portfolio) — HTML and CSS coursework portfolio
 - [Linux Bash Scripts](https://github.com/tmricke/linux-bash-scripts) — Linux command-line and Bash scripting practice
 - [Python Automation](https://github.com/tmricke/python-automation) — Introductory Python automation exercises
